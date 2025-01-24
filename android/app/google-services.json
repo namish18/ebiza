@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607763598555",
+    "project_id": "ebiza-50adc",
+    "storage_bucket": "ebiza-50adc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607763598555:android:6611ebb5a9dbeb3d2110fe",
+        "android_client_info": {
+          "package_name": "com.example.app_hk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqV7mXr4zj6yQwA2C_oyGMry_lwOw_RRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
