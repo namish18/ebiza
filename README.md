@@ -16,7 +16,7 @@ The Android App offers the following features:
 - **Business Investment Opportunities:** A section for entrepreneurs with disabilities to showcase their business ideas and seek investments from potential backers.
 - **Mental Health Support:** Free mental health tests to promote self-awareness. Access to free consultations and resources to improve mental well-being.
 - **Opportunity Hub:** Courses and skill development programs tailored for individuals with disabilities. Collaborations with NGOs and organizations to provide additional support and resources.
-- **User-friendly interface:** The app provides a simple and intuitive interface for seamless note-taking and management.
+- **User-friendly interface:** The app provides a simple and intuitive interface.
 
 This is a app written with flutter in android. This is the newer version of the app 
 version number 1.0.1
