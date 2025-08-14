@@ -1,6 +1,6 @@
 # Ebiza: A Social impact and Fundraising Application 💸
 
-![ebiza Logo](https://raw.githubusercontent.com/namish18/ebiza/blob/main/assets/images/Screenshot%202025-01-27%20002121.png)
+![ebiza Logo](https://raw.githubusercontent.com/namish18/ebiza/main/assets/images/Screenshot%202025-01-27%20002121.png)
 
 ---
 
